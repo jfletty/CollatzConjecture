@@ -21,17 +21,15 @@ For example: If we start with the number 7.
 
 ## Build With
 - [Typescript](https://www.typescriptlang.org/)
-- [Node]()
-- [ts-node]()
-- [typescript]()
+- [Node](https://nodejs.org/en/)
+- [ts-node](https://github.com/TypeStrong/ts-node)
+- [typescript](https://www.npmjs.com/package/typescript)
 
 ## Getting Started
-1. To install all prerequisits, run: `npm install typescript ts-node`.
-2. Options to run the script
-    
-    2.a. To run the script with an increasing index, run: `npx ts-node ./conjecture.ts`.
-    
-    2.b. To run the script with a random index between 1 and 1,000,000, run: `npx ts-node ./conjecture.ts random`.
+1. To install all prerequisites, execute the following command: `npm install typescript ts-node`.
+2. Options to execute the script:
+    1. To run the script with an increasing index: `npx ts-node ./conjecture.ts`.
+    2. To run the script with a random index between 1 and 1,000,000: `npx ts-node ./conjecture.ts random`.
 
 ### Contribution Guide
 This repo is open for any additional changes, improvements or alterations. When you are making these changes, follow the coding conventions documented on the [Microsoft website](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions).
